@@ -22,3 +22,16 @@ To fix a bug or enhance an existing module, follow these steps:
 - Commit your changes (`git commit -am 'Improve feature'`)
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request
+## Technologies Used
+* HTML5
+* CSS
+
+
+## Author
+- Kadimane Gloriah
+
+## License 
+[MIT](https://github.com/kadimane/Anitas-Kitchen/blob/master/LICENSE.md)
+
+ © [Kadimane Gloriah](https://github.com/kadimane)
+ 
