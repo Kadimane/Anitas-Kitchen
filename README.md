@@ -6,7 +6,6 @@ Therefore, the Application displays a summary of all the orders he/she has made 
 Also  the customer enters his/her location details for easy delivery after the Order has been submit.
 ## Demo
 Here is a working live demo :  https://kadimane.github.io/Anitas-Kitchen/
-
 ## Mobile support
 The pizza-web is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
