@@ -1,4 +1,4 @@
-# pizza-web
+# Anitas Kitchen
 This is a project on a Anitas-Kitchen website where customers can place orders and get them  delivered.
 # Description
 Anitas-Kitchen is a web based application where customers order different types of drinks with one or more toppings. 
@@ -6,7 +6,7 @@ Anitas-Kitchen is a web based application where customers order different types 
 ## Demo
 Here is a working live demo :  https://kadimane.github.io/Anitas-Kitchen/
 ## Mobile support
-The pizza-web is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
+Anitas Kitchen is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
 
 ## [Usage](https://kadimane.github.io/Anitas-Kitchen/)
 ### Development
