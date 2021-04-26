@@ -1,9 +1,8 @@
 # pizza-web
-This is a project on a pizza eatery website where customers can place orders and get them  delivered.
+This is a project on a Anitas-Kitchen website where customers can place orders and get them  delivered.
 # Description
-Pizza Hub is a web based application where customers order different sizes of pizzas with one or more toppings. 
-Therefore, the Application displays a summary of all the orders he/she has made and the total amount to pay for all his/her orders. 
-Also  the customer enters his/her location details for easy delivery after the Order has been submit.
+Anitas-Kitchen is a web based application where customers order different types of drinks with one or more toppings. 
+ 
 ## Demo
 Here is a working live demo :  https://kadimane.github.io/Anitas-Kitchen/
 ## Mobile support
